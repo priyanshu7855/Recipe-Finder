@@ -45,7 +45,7 @@ A modern, responsive recipe discovery application built with React, TypeScript, 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/priyanshu7855/Recipe-Finder
    cd recipe-finder-app
    ```
 
@@ -65,7 +65,7 @@ A modern, responsive recipe discovery application built with React, TypeScript, 
 ## 🔧 Configuration
 
 ### API Setup
-The app uses the Spoonacular API for real recipe data. The API key is already configured in the code:
+The app uses the Spoonacular API for real recipe data:
 
 ```typescript
 // src/services/api.ts
